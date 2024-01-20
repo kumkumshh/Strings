@@ -4,6 +4,9 @@ public class combinedLenth {
 
     public static void main(String[] args) {
         
+//Take an array of Strings input from the user & find the cumulative (combined) length of all those strings.
+
+
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
 
